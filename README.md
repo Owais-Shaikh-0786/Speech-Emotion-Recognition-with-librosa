@@ -28,3 +28,11 @@ An LSTM model is implemented for speech emotion recognition. The model architect
 
 ## Evaluation
 The models are evaluated using test data, and performance metrics such as accuracy are computed. The best performing model is saved for future use.
+
+## Skills: 
+- Data preprocessing
+- Feature engineering
+- Building CNN models.
+
+## Lesson Learned
+The project mentions data augmentation. This technique increases the amount of training data and helps the model generalize better.
