@@ -1,10 +1,9 @@
-# Speech Emotion Recognition README
+# Speech Emotion Recognition 
 
 ## Overview
 This repository contains code for Speech Emotion Recognition using deep learning techniques. The goal is to recognize emotions from audio files using various models like Convolutional Neural Networks (CNN) and Long Short-Term Memory networks (LSTM).
 
-## Dependencies
-Make sure you have the following dependencies installed:
+## Libraries
 - numpy
 - pandas
 - librosa
