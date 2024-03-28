@@ -35,3 +35,12 @@ The models are evaluated using test data, and performance metrics such as accura
 
 ## Lesson Learned
 The project mentions data augmentation. This technique increases the amount of training data and helps the model generalize better.
+
+## Accuracy
+
+![Screenshot 2024-03-28 160130](https://github.com/Owais-Shaikh-0786/Speech-Emotion-Recognition-with-librosa/assets/139638554/e52e96db-b281-4f63-aa50-cde40bee259d)
+
+## Output
+
+![Screenshot 2024-03-28 160152](https://github.com/Owais-Shaikh-0786/Speech-Emotion-Recognition-with-librosa/assets/139638554/a3ac6ca3-635c-4e31-8747-0c2d61982260)
+
